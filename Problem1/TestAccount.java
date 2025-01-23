@@ -1,4 +1,4 @@
-public class TestAcunt {
+public class TestAccount {
     public static void main(String[] args) {
         // Create two accounts
         Account acc1 = new Account("ACC1", "Account 1", 5000);
